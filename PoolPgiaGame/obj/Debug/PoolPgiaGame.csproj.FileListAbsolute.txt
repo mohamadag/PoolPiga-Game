@@ -1,0 +1,10 @@
+C:\Users\mohamedag\Desktop\C19 Ex05 MohamedAref 314720293 MohamedTaha 204592950\PoolPgiaGame\bin\Debug\PoolPgiaGame.exe
+C:\Users\mohamedag\Desktop\C19 Ex05 MohamedAref 314720293 MohamedTaha 204592950\PoolPgiaGame\bin\Debug\PoolPgiaGame.pdb
+C:\Users\mohamedag\Desktop\C19 Ex05 MohamedAref 314720293 MohamedTaha 204592950\PoolPgiaGame\obj\Debug\PoolPgiaGame.ColorsMenu.resources
+C:\Users\mohamedag\Desktop\C19 Ex05 MohamedAref 314720293 MohamedTaha 204592950\PoolPgiaGame\obj\Debug\PoolPgiaGame.MainForm.resources
+C:\Users\mohamedag\Desktop\C19 Ex05 MohamedAref 314720293 MohamedTaha 204592950\PoolPgiaGame\obj\Debug\PoolPgiaGame.GameBoard.resources
+C:\Users\mohamedag\Desktop\C19 Ex05 MohamedAref 314720293 MohamedTaha 204592950\PoolPgiaGame\obj\Debug\PoolPgiaGame.PlayAgain.resources
+C:\Users\mohamedag\Desktop\C19 Ex05 MohamedAref 314720293 MohamedTaha 204592950\PoolPgiaGame\obj\Debug\PoolPgiaGame.csproj.GenerateResource.cache
+C:\Users\mohamedag\Desktop\C19 Ex05 MohamedAref 314720293 MohamedTaha 204592950\PoolPgiaGame\obj\Debug\PoolPgiaGame.csproj.CoreCompileInputs.cache
+C:\Users\mohamedag\Desktop\C19 Ex05 MohamedAref 314720293 MohamedTaha 204592950\PoolPgiaGame\obj\Debug\PoolPgiaGame.exe
+C:\Users\mohamedag\Desktop\C19 Ex05 MohamedAref 314720293 MohamedTaha 204592950\PoolPgiaGame\obj\Debug\PoolPgiaGame.pdb
